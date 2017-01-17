@@ -1,0 +1,7 @@
+import java.util.*;Set<String> a = new TreeSet<String>();
+a.add("a");
+a.add("b");
+Set<String> b = new TreeSet<String>();
+b.add("a");
+b.add("c");
+int k = 3;System.out.println("hey: " + a);
